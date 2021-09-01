@@ -26,7 +26,7 @@ The analysis of the election show that:
     - Diana received "73.8%" of the vote and "272,892" number of vote.
     - Raymon received "3.1%" of the vote and "11,606" number of vote.
 - The winner of the election was:
-    - Diana DeGette, who received "73.8%" of the vote and "369,711" total number of votes.
+    - Diana DeGette, who received "73.8%" of the vote and "272,892" total number of votes.
     
 ## ***Challenge Overview***
 The module helped to undertand the coding blocks by describing the qualities of each topic. However, the complexity was high level which encourage to study the semantic of program.
