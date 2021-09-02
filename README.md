@@ -23,30 +23,31 @@ This project analyses a dataset that collects the information of an election in 
 - Percentage of votes each candidate won
 - The winner of the election based on popular vote
 
-### Challenge behind ###
+### Challenge behind
 The module helps us to overview the step-by-step of coding that was prepare to calculate the election audit task. We use ***pseudocode*** writing which is a technique that commonly programmers use to audit easier a program :+1:
 
 ## ***Summary***
 The analysis of the election show that:
 **There were "369,711" votes cast in the election.**
 - The candidates were:
-    -_Charles Casper Stockham
-    -_Diana DeGette
-    -_Raymon Anthony Doane
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 - The counties to be analyzed:
-    -_Jefferson
-    -_Denver
-    -_Arapahoe
+    - Jefferson
+    - Denver
+    - Arapahoe
 - The candidate results were:
-    -_Charles received "23.0%" of the vote and "85,213" number of vote.
-    -_Diana received "73.8%" of the vote and "272,892" number of vote.
-    -_Raymon received "3.1%" of the vote and "11,606" number of vote.
+    - Charles received "23.0%" of the vote and "85,213" number of vote.
+    - Diana received "73.8%" of the vote and "272,892" number of vote.
+    - Raymon received "3.1%" of the vote and "11,606" number of vote.
 - The candidate results were:
-        -_Jefferson received "23.0%" of the vote and "85,213" number of vote.
-        -_Denver received "73.8%" of the vote and "272,892" number of vote.
-        -_Raymon received "3.1%" of the vote and "11,606" number of vote.
+    - Jefferson received "23.0%" of the vote and "85,213" number of vote.
+    - Denver received "73.8%" of the vote and "272,892" number of vote.
+    - Raymon received "3.1%" of the vote and "11,606" number of vote.
 - The winner of the election was:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" total number of votes.
+![Summary Results](analysis/Summary_Results.png)
     
 ## ***Challenge Overview***
 The module helped to undertand the coding blocks by describing the qualities of each topic. However, the complexity was high level which encourage to study the semantic of program.
