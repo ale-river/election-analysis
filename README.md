@@ -12,19 +12,39 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## ***Resources***
 - Data Sources: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code 1.56.2
+- Software: Python 3.6.1, Visual Studio Code 1.56.2 
+[Note: Python open source provides guides where to look for more information:](https://pythonguides.com/category/python-tutorials/)
+
+## **Analysis and Challenges**
+This project analyses a dataset that collects the information of an election in the Colorado state. The includes the following aspects:
+- Total number of votes cast
+- A complete list of candidates who received votes
+- Total number of votes each candidate received
+- Percentage of votes each candidate won
+- The winner of the election based on popular vote
+
+### Challenge behind ###
+The module helps us to overview the step-by-step of coding that was prepare to calculate the election audit task. We use ***pseudocode*** writing which is a technique that commonly programmers use to audit easier a program :+1:
 
 ## ***Summary***
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+**There were "369,711" votes cast in the election.**
 - The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
+    -_Charles Casper Stockham
+    -_Diana DeGette
+    -_Raymon Anthony Doane
+- The counties to be analyzed:
+    -_Jefferson
+    -_Denver
+    -_Arapahoe
 - The candidate results were:
-    - Charles received "23.0%" of the vote and "85,213" number of vote.
-    - Diana received "73.8%" of the vote and "272,892" number of vote.
-    - Raymon received "3.1%" of the vote and "11,606" number of vote.
+    -_Charles received "23.0%" of the vote and "85,213" number of vote.
+    -_Diana received "73.8%" of the vote and "272,892" number of vote.
+    -_Raymon received "3.1%" of the vote and "11,606" number of vote.
+- The candidate results were:
+        -_Jefferson received "23.0%" of the vote and "85,213" number of vote.
+        -_Denver received "73.8%" of the vote and "272,892" number of vote.
+        -_Raymon received "3.1%" of the vote and "11,606" number of vote.
 - The winner of the election was:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" total number of votes.
     
