@@ -22,6 +22,8 @@ This project analyses a dataset that collects the information of an election in 
 - Total number of votes each candidate received
 - Percentage of votes each candidate won
 - The winner of the election based on popular vote
+- Total number of votes each county.
+- Largest county turnout
 
 ### Challenge behind
 The module helps us to overview the step-by-step of coding that was prepare to calculate the election audit task. We use ***pseudocode*** writing which is a technique that commonly programmers use to audit easier a program :+1:
@@ -29,6 +31,7 @@ The module helps us to overview the step-by-step of coding that was prepare to c
 ## ***Summary***
 The analysis of the election show that:
 **There were "369,711" votes cast in the election.**
+
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -41,12 +44,17 @@ The analysis of the election show that:
     - Charles received "23.0%" of the vote and "85,213" number of vote.
     - Diana received "73.8%" of the vote and "272,892" number of vote.
     - Raymon received "3.1%" of the vote and "11,606" number of vote.
-- The candidate results were:
-    - Jefferson received "23.0%" of the vote and "85,213" number of vote.
-    - Denver received "73.8%" of the vote and "272,892" number of vote.
-    - Raymon received "3.1%" of the vote and "11,606" number of vote.
+- The counties results were:
+    - Jefferson county received "10.5%" of the vote and "38,855" number of vote.
+    - Denver county received "82.8%" of the vote and "306,055" number of vote.
+    - Raymon county received "6.7%" of the vote and "24,801" number of vote.
+    
 - The winner of the election was:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" total number of votes.
+- The largest county turnout was:
+    - Denver that received "82.8%" of the votes and "306,055" total number of votes.
+    
+    **RESULTS FOUNDED IN THE AUDIT DATASET**
 ![Summary Results](analysis/Summary_Results.png)
     
 ## ***Challenge Overview***
